@@ -56,3 +56,8 @@ $ git rebase branchNameToBeMerge
 
 it will give linear history.
 ----------------------------------------------------------------------------------------------------------------------
+11) How to push the local changes to the Gihub central repository.
+
+$ git push origin branchNameToChangesGo
+
+
