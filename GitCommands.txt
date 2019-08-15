@@ -1,0 +1,34 @@
+1)How to create empty git repository
+
+$ git init 
+Or $ git init folder name.
+
+2)HOw to add remote respoitiory as origin to the current local directory
+
+$ git remote add origin "https://thepathoftheRemoteRepo"
+
+3)How to pull data from the remote repo and any branch
+$ git pull origin master
+
+4)How to add the files/folder to the local repository
+
+$ git add file.txt
+
+how to add multiple file 
+$ git add -A
+
+5)How to check the status of the local repo
+ $ git status 
+
+6) How to commit the chnages to the git repository.
+
+$ git commit -m "message to be send for this commit"
+
+how to commit multiple file
+
+$ git commit -a -m "message for the multiple file"
+
+
+7) How to check the log of the local repositry
+
+$ git log
