@@ -60,4 +60,18 @@ it will give linear history.
 
 $ git push origin branchNameToChangesGo
 
+-----------------------------------------------------------------------------------------------------------------------
+12) How to revert any commit from any particular branch
+
+$ git checkout 80124598 fileName.txt
+
+80124598 i hexa code first 8 digit when we see the commit in the git log.
+
+-------------------------------------------------------------------------------------------------------------------
+13) How to open the file in the same folder.
+
+$ git CAT fileName.txt
+-------------------------------------------------------------------------------------------------------
+ 
+
 
